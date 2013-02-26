@@ -1,0 +1,1 @@
+[{"PersonalAccount":1,"ServiceInfo":{"Amount":{"Editable":"N","MinAmount":0,"MaxAmount":1000000,"AmountPrecision":0,"Debt":123230,"Penalty":1110},"ClientId":1,"Info":{"InfoLine":"Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test"}}}]

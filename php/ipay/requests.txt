@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120919171457</DateTime>
+  <Version>1</Version>
+  <RequestType>TransactionResult</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15500</RequestId>
+  <TransactionResult>
+    <TransactionId>663623</TransactionId>
+    <ServiceProvider_TrxId>6</ServiceProvider_TrxId>
+    <ErrorText>Операция отменена</ErrorText>
+  </TransactionResult>
+</ServiceProvider_Request>
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120919171533</DateTime>
+  <Version>1</Version>
+  <RequestType>TransactionResult</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15501</RequestId>
+  <TransactionResult>
+    <TransactionId>663624</TransactionId>
+    <ServiceProvider_TrxId>7</ServiceProvider_TrxId>
+    <ErrorText>Операция отменена</ErrorText>
+  </TransactionResult>
+</ServiceProvider_Request>
+
+
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120919171824</DateTime>
+  <Version>1</Version>
+  <RequestType>ServiceInfo</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15502</RequestId>
+  <ServiceInfo>
+    <Agent>369</Agent>
+  </ServiceInfo>
+</ServiceProvider_Request>
+
+
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120919171826</DateTime>
+  <Version>1</Version>
+  <RequestType>TransactionStart</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15502</RequestId>
+  <CheckWidth>50</CheckWidth>
+  <TransactionStart>
+    <Amount>246460</Amount>
+    <TransactionId>663625</TransactionId>
+    <Agent>369</Agent>
+    <AuthorizationType>iPay</AuthorizationType>
+  </TransactionStart>
+</ServiceProvider_Request>
+
+
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120920192313</DateTime>
+  <Version>1</Version>
+  <RequestType>ServiceInfo</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15534</RequestId>
+  <ServiceInfo>
+    <Agent>369</Agent>
+  </ServiceInfo>
+</ServiceProvider_Request>
+
+
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120920192315</DateTime>
+  <Version>1</Version>
+  <RequestType>TransactionStart</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15534</RequestId>
+  <CheckWidth>50</CheckWidth>
+  <TransactionStart>
+    <Amount>246460</Amount>
+    <TransactionId>663636</TransactionId>
+    <Agent>369</Agent>
+    <AuthorizationType>iPay</AuthorizationType>
+  </TransactionStart>
+</ServiceProvider_Request>
+
+
+<?xml version="1.0" encoding="windows-1251"?>
+<ServiceProvider_Request>
+  <DateTime>20120920192318</DateTime>
+  <Version>1</Version>
+  <RequestType>TransactionResult</RequestType>
+  <ServiceNo>1</ServiceNo>
+  <PersonalAccount>1</PersonalAccount>
+  <Currency>974</Currency>
+  <RequestId>15534</RequestId>
+  <TransactionResult>
+    <TransactionId>663636</TransactionId>
+    <ServiceProvider_TrxId>4</ServiceProvider_TrxId>
+  </TransactionResult>
+</ServiceProvider_Request>
+
+
